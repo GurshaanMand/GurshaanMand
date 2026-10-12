@@ -10,9 +10,7 @@ I'm a Computer Science student at the University of Manitoba. Most of what I bui
 
 A web app that cuts a long YouTube video down to the parts that match an objective you describe. It scores every transcript segment for relevance, redundancy and information content, then renders the kept ranges into one MP4.
 
-```text
 transcript → 20s segments → MiniLM embeddings → topic grouping → multi-signal scoring → filtering → FFmpeg render
-```
 
 Python · FastAPI · Sentence Transformers · scikit-learn · FFmpeg · Docker · AWS ECS
 

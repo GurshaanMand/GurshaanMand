@@ -26,7 +26,7 @@ Python · FastAPI · Sentence Transformers · scikit-learn · FFmpeg · Docker �
 
 ### [CareConnect](https://github.com/GurshaanMand/CareConnect)
 
-A hackathon project built with a team of five. It ranks clinic patients for vaccination outreach by age, risk factors and gaps in their vaccination history, with a staff dashboard and a patient lookup page. It runs on generated demo data.
+A 24-hour hackathon project built with a team of four. It ranks clinic patients for vaccination outreach by age, risk factors and gaps in their vaccination history, with a staff dashboard and a patient lookup page. It runs on generated demo data.
 
 Python · FastAPI · Jinja2 · pandas
 

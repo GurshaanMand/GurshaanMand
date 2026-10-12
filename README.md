@@ -1,7 +1,7 @@
 <img src="assets/banner.svg" alt="Gurshaan Mand — Software Engineering · AI/ML · Backend · Data. Computer Science @ University of Manitoba" width="100%">
 
 <p>
-  <a href="https://www.linkedin.com/in/gurshaan-mand-b9457a320/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://www.linkedin.com/in/gurshaanmand/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44"></a>
   &nbsp;
   <a href="mailto:gurshaansm20@gmail.com"><img src="assets/email.svg" alt="Email" height="44"></a>
   &nbsp;

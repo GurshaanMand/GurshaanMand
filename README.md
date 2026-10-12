@@ -3,6 +3,10 @@
 <p>
   <a href="https://www.linkedin.com/in/gurshaan-mand-b9457a320/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44"></a>
   &nbsp;
+  <a href="mailto:gurshaansm20@gmail.com"><img src="assets/email.svg" alt="Email" height="44"></a>
+  &nbsp;
+  <a href="https://gurshaanmand.com/GurshaanMand.pdf"><img src="assets/resume.svg" alt="Résumé" height="44"></a>
+  &nbsp;
   <a href="https://gurshaanmand.com"><img src="assets/website.svg" alt="Website" height="44"></a>
 </p>
 
@@ -36,7 +40,7 @@ Python · SQLite · REST API · RapidFuzz
 
 | | |
 |---|---|
-| **Languages** | Python · Java · JavaScript · SQL |
-| **AI / Data** | Sentence Transformers · scikit-learn · NumPy · pandas |
-| **Backend** | FastAPI · REST APIs · SQLite |
-| **Tools** | Docker · AWS (ECS, ECR) · FFmpeg · Git |
+| **Languages** | Python · Java · C++ · SQL · JavaScript |
+| **AI / Data** | Sentence Transformers · Hugging Face · PyTorch · scikit-learn · NumPy · pandas · Matplotlib · OpenAI API |
+| **Backend / Databases** | FastAPI · REST APIs · PostgreSQL · SQLite |
+| **Tools / Infrastructure** | Docker · AWS (ECS, ECR) · GitHub Actions · Git · Linux |

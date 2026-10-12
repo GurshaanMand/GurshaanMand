@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the University of Manitoba. Most of what I build is backend and data-heavy software in Python, and lately a lot of it involves embedding models and LLM tooling.
 
-[LinkedIn](https://www.linkedin.com/in/gurshaan-mand-b9457a320/) &nbsp;·&nbsp; [Website](https://www.gurshaanmand.com)
+[LinkedIn](https://www.linkedin.com/in/gurshaan-mand-b9457a320/) &nbsp;·&nbsp; [Website](https://gurshaanmand.com)
 
 ## Projects
 

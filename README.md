@@ -1,8 +1,14 @@
 <img src="assets/banner.svg" alt="Gurshaan Mand — Software Engineering · AI/ML · Backend · Data. Computer Science @ University of Manitoba" width="100%">
 
-I'm a Computer Science student at the University of Manitoba. Most of what I build is backend and data-heavy software in Python, and lately a lot of it involves embedding models and LLM tooling.
+<p>
+  <a href="https://www.linkedin.com/in/gurshaan-mand-b9457a320/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44"></a>
+  &nbsp;
+  <a href="https://gurshaanmand.com"><img src="assets/website.svg" alt="Website" height="44"></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/gurshaan-mand-b9457a320/) &nbsp;·&nbsp; [Website](https://gurshaanmand.com)
+## About Me
+
+I'm a Computer Science student at the University of Manitoba. Most of what I build is backend and data-heavy software in Python, some of it using embedding models.
 
 ## Projects
 
@@ -14,19 +20,23 @@ transcript → 20s segments → MiniLM embeddings → topic grouping → multi-s
 
 Python · FastAPI · Sentence Transformers · scikit-learn · FFmpeg · Docker · AWS ECS
 
-### [session-saver-mod](https://github.com/GurshaanMand/session-saver-mod)
+### [CareConnect](https://github.com/GurshaanMand/CareConnect)
 
-A Claude Code mod that makes token spend visible while you work: a per-prompt cost receipt, context-window warnings, a confirmation before very large file reads, and commands to route requests to a cheaper model. Seven features, each in its own module with its own tests.
+A hackathon project built with a team of five. It ranks clinic patients for vaccination outreach by age, risk factors and gaps in their vaccination history, with a staff dashboard and a patient lookup page. It runs on generated demo data.
 
-TypeScript · Claude Code mods API
+Python · FastAPI · Jinja2 · pandas
+
+### [AllergenFinder](https://github.com/GurshaanMand/AllergenFinder)
+
+A command-line tool that looks up the likely allergens in a dish. It pulls a recipe's ingredients from the Spoonacular API, matches them against a list of common allergens, and stores the result in SQLite so repeat lookups stay local.
+
+Python · SQLite · REST API · RapidFuzz
 
 ## Technologies
 
 | | |
 |---|---|
-| **Languages** | Python · Java · TypeScript · JavaScript · SQL |
+| **Languages** | Python · Java · JavaScript · SQL |
 | **AI / Data** | Sentence Transformers · scikit-learn · NumPy · pandas |
 | **Backend** | FastAPI · REST APIs · SQLite |
 | **Tools** | Docker · AWS (ECS, ECR) · FFmpeg · Git |
-
-<sub>Reach me on [LinkedIn](https://www.linkedin.com/in/gurshaan-mand-b9457a320/).</sub>
